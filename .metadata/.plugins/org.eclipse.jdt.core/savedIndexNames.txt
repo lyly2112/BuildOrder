@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\revature\projects\dailychallenge\OB\BuildOrder\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3678745796.index
-217047792.index
